@@ -1,3 +1,5 @@
+Information taken from https://www.freecodecamp.org/news/git-cheat-sheet/
+
 The command below returns a list of information about your git configuration including user name and email:
 
 git config -l
@@ -246,3 +248,5 @@ This command will force a push request. This is usually fine for pull request br
 But this isn't something that you want to do with public repos.
 
 git push -f
+
+Information taken from https://www.freecodecamp.org/news/git-cheat-sheet/
