@@ -1,0 +1,6 @@
+Dirección Mac
+ 08:00:27:ca:f7:27  
+Ip publica VM
+ 10.0.xxx.xxx
+Ip Privada
+ 127.0.xxx.xxx
